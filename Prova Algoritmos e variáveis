@@ -1,0 +1,15 @@
+# int
+inteiro = 10
+
+# float
+decimal = 1,5
+
+# string
+Texto = Leonardo 
+
+# Pedindo o Nome:
+nome = input("Digite seu nome:
+-> ")
+
+# A solicitação anterior com uma mensagem personalizada.
+print(f"Olá, {nome}! Seja bem-vindo")
